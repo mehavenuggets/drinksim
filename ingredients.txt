@@ -2,9 +2,18 @@ alcohol :
 
 gin, rum, tequila, vodka, whiskey, champange, wine, brandy.
 
+liköörid :
+
+blue curaçao
+crème de mure
+Cointreau
+Galliano
+Drambuie
+amaretto
+Triple Sec
+
 muud joogid :
 
-crème de mure
 tonic
 syrup
 coconut cream
@@ -12,12 +21,14 @@ Coca-Cola
 
 mahlad :
 
+cranberry juice
 pineapple juice
 orange juice
 lime juice
 lemon juice
+grapefruit juice
 
 lisandid :
 
-lime garnish
-Lime wedge
+lime
+orange 
