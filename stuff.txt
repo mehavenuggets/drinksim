@@ -1,0 +1,23 @@
+alcohol :
+
+gin, rum, tequila, vodka, whiskey, champange, wine, brandy.
+
+muud joogid :
+
+crème de mure
+tonic
+syrup
+coconut cream
+Coca-Cola
+
+mahlad :
+
+pineapple juice
+orange juice
+lime juice
+lemon juice
+
+lisandid :
+
+lime garnish
+Lime wedge
