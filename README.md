@@ -8,7 +8,7 @@ Circular tables - DONE
 
 Square tables - DONE
 
-Table chairs
+Table chairs - DONE
 
 Bar chairs - DONE
 
