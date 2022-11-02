@@ -1,11 +1,14 @@
 # STUFF TO ADD
 
-* - will add if there is time / maybe
+(*) - will add if there is time / maybe
 
-Pudelite labels
+Pudelite labels 
 Circular tables
-Square tables
+Square tables - DONE
 Table chairs
 WC doors*
 Big curved couch
-Jää
+Icemachine
+Lemons, lime and garnishes
+Freezer - DONE
+Doors*
