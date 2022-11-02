@@ -10,7 +10,7 @@ Square tables - DONE
 
 Table chairs
 
-Bar chairs
+Bar chairs - DONE
 
 WC doors*
 
