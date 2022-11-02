@@ -3,7 +3,7 @@
 (*) - will add if there is time / maybe
 
 
-Pudelite labels 
+Bottle labels 
 
 Circular tables
 
