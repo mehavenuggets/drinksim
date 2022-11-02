@@ -24,6 +24,6 @@ Freezer - DONE
 
 Doors*
 
-Stage
+Stage - DONE
 
 NOT A STRIPPER POLE - FU*K YOU KAAREL
