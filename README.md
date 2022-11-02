@@ -4,7 +4,7 @@
 
 Bottle labels 
 
-Circular tables
+Circular tables - DONE
 
 Square tables - DONE
 
