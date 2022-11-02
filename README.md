@@ -2,7 +2,6 @@
 
 (*) - will add if there is time / maybe
 
-
 Bottle labels 
 
 Circular tables
@@ -26,3 +25,5 @@ Freezer - DONE
 Doors*
 
 Stage
+
+NOT A STRIPPER POLE - FU*K YOU KAAREL
