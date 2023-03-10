@@ -32,3 +32,21 @@ lisandid :
 
 lime
 orange 
+
+
+DONE LIST:
+Rum (X)
+Creme de mure (X)
+Tequilla (X)
+Vodka (X)
+Gin (X)
+Blue curaçao (X)
+Whiskey (X)
+Brandy ()
+Rum ()
+Rum ()
+Rum ()
+Rum ()
+Rum ()
+Rum ()
+Rum ()
