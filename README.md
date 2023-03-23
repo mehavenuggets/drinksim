@@ -8,4 +8,4 @@ Unreal Engine 5, Blender, Figma
 Turbosquid.com, Figma.com
 
 # ---Game---
-Create drinks and messes as you clear events, requests in this drink making sim.
+Create drinks and messes as you clear events and drink requests in this drink making sim.
