@@ -1,10 +1,10 @@
-# ---Barshots---
+# -Barshots-
 Bartender Simulator VR
 
-# ---Programs---
+# -Programs-
 Unreal Engine 5, Blender, Figma
 
-# ---Websites---
+# -Websites-
 Turbosquid.com, Figma.com
 
-# -----Game-----
+# ---Game---
