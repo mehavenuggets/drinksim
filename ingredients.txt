@@ -32,31 +32,3 @@ lisandid :
 
 lime
 orange 
-
-
-DONE LIST:
-Rum (X)
-Creme de mure (X)
-Tequilla (X)
-Vodka (X)
-Gin (X)
-Blue curaçao (X)
-Whiskey (X)
-Brandy (X)
-blue curaçao (X)
-crème de mure (X)
-Cointreau (X)
-Galliano (X)
-Drambuie (X)
-amaretto (X)
-Triple Sec ()
-tonic ()
-syrup ()
-coconut cream ()
-Coca-Cola ()
-cranberry juice ()
-pineapple juice ()
-orange juice ()
-lime juice ()
-lemon juice ()
-grapefruit juice ()
