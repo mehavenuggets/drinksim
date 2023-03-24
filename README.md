@@ -1,14 +1,10 @@
 # STUFF TO ADD
 
-Bar chairs - DONE
-
-WC doors*
-
 Big curved couch
 
 Ice machine
 
-Doors
+Outside door
 
 Windows
 
